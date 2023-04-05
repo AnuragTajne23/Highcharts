@@ -7,3 +7,12 @@
   font-family: "dancing script";
   color: rgba(4, 4, 113, 0.779);
 }
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+mat-card{
+  width: 95%;
+}

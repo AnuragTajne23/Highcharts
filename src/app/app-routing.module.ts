@@ -5,7 +5,7 @@ import { ColumnchartComponent } from './columnchart/columnchart.component';
 
 const routes: Routes = [
   // {path:'', component:LinechartsComponent},
-  {path:'columnchart', component:ColumnchartComponent}
+  // {path:'columnchart', component:ColumnchartComponent}
 ];
 
 @NgModule({
