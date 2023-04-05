@@ -15,4 +15,5 @@
 
 mat-card{
   width: 95%;
+  box-shadow: 0 1px 10px 1px #887d7d;
 }
