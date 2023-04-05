@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster&family=Roboto&family=Zeyada&display=swap");
-.highchart{
+.highchart {
   display: flex;
   justify-content: center;
   text-align: center;
@@ -8,12 +8,12 @@
   color: rgba(4, 4, 113, 0.779);
 }
 
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-mat-card{
+mat-card {
   width: 95%;
   box-shadow: 0 1px 10px 1px #887d7d;
 }

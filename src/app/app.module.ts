@@ -11,6 +11,7 @@ import { ColumnchartComponent } from './columnchart/columnchart.component';
 import { PiechartComponent } from './piechart/piechart.component';
 import { GraphchartComponent } from './graphchart/graphchart.component';
 import { ScatterchartComponent } from './scatterchart/scatterchart.component';
+import { SplinechartComponent } from './splinechart/splinechart.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { ScatterchartComponent } from './scatterchart/scatterchart.component';
     ColumnchartComponent,
     PiechartComponent,
     GraphchartComponent,
-    ScatterchartComponent
+    ScatterchartComponent,
+    SplinechartComponent
   ],
   imports: [
     BrowserModule,
